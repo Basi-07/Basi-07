@@ -3,7 +3,7 @@
 ## 👋Introduction 
 - 🎓 영남대 파이버시스템공학과(본전공)/컴퓨터공학과(복수전공) 4학년  
 - 💻 웹 개발 관심
-- 🎨 디자인과 콘텐츠 제작도 좋아함  
+- 🎨 디자인과 콘텐츠 제작
 
 ## 📌Goal
 - 사용자 중심 서비스 개발
@@ -13,14 +13,11 @@
 ## 🔗Links
 - Email : n.yeos.70@gmail.com
 
-## 🔍Quick Info
-- 🔭 Working on: AI 헬스케어 웹 프로젝트  
-- 👯 Collab: 여행 기록 앱, 웹 서비스   
-- 💬 Ask me: 교환학생, 콘텐츠 제작, 웹 개발  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: 여행지도 퍼즐 웹 만드는 중! 
-
 ## 👩‍💻Tech Stack(Techs I've used at least once)
 <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style-for-the-badge&logo=C&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/ABAP-0FAAFF.svg?style=flat-square&logo=sap&logoColor=white"/>
