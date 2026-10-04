@@ -24,5 +24,3 @@
 <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style-for-the-badge&logo=C&logoColor=white"/> 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Basi-07&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
